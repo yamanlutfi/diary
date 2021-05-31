@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "Good job",
+      "description": "Lorem ipsum",
+      "author": "Yaman Lutfi",
+      "color": "#FFFFFF",
+      "date": "",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
